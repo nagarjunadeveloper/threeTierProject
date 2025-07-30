@@ -22,7 +22,7 @@ services:
     environment:
       - DB_HOST=book-rds.c1u4kewc6r37.ap-south-1.rds.amazonaws.com
       - DB_USERNAME=admin
-      - DB_PASSWORD=veeranarni
+      - DB_PASSWORD=admin1234
       - PORT=3306
     networks:
       - appnet
