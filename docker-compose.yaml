@@ -20,7 +20,7 @@ services:
     ports:
       - "86:80"
     environment:
-      - DB_HOST=database-1.cadis6k06nrl.us-east-1.rds.amazonaws.com
+      - DB_HOST=database-1.cah262agumz8.us-east-1.rds.amazonaws.com
       - DB_USERNAME=admin
       - DB_PASSWORD=admin1234
       - PORT=3306
